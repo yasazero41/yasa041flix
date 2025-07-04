@@ -2,13 +2,22 @@
 
 
 
-body{
-       
+body{      
 color:#DC143C;
 background-color:#FFFFF0;
 margin: 0px;
 margin-bottom: 100px;
 font-family: "roboto mono",monospace;
+}
+header{
+  border-bottom: burlywood;
+  margin: 20px;
+  font-size: 32px;
+  color:black;
+}
+
+
+
 color:blue
   font-size: 40px;
 
